@@ -7,7 +7,7 @@ clear
 
 echo ' [::]AVA ROSE[::]'
 echo ' [::]GITHUB: https://github.com/Pactoriana[::]'
-echo ' [::]PARA MAIS DETALHES DIGITE AJUDA [::]'
+echo ' [::]PARA MAIS DETALHES DIGITE AJUDA[::]'
 figlet AVA ROSE
 figlet NETSCAN
 
