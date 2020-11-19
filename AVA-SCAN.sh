@@ -1,5 +1,7 @@
 #!/bin/bash
 
+pacman -S nmap -y
+apt install nmap -y
 apt install figlet -y
 clear
 
@@ -63,7 +65,7 @@ echo
 
 echo "TESTES CONCLUIDOS COM SUCEFULLY"
 echo -n '--> '
-echo ' REGITREI DATA E HORA .. '
+echo ' REGISTREI DATA E HORA .. '
 echo >> netscan.temp
 LANG=pt_BR date >> netscan.temp
 echo
